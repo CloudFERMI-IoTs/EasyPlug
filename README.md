@@ -4,6 +4,7 @@ Sample codes for EasyPlug Lora Actuator Nodes
 Actuator Node with Lora / Wifi / Bluetooth. This is pure hardware platform, sold to public domain for developing commercial IoTs products by our partners.
 
 ==========
+
 *** TECHNICAL SPECS
 
 1. High quality, luxury Cover / Power Socket from Panasonic
